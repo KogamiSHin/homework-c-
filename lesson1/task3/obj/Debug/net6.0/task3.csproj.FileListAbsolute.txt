@@ -1,0 +1,15 @@
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.csproj.AssemblyReference.cache
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.AssemblyInfoInputs.cache
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.AssemblyInfo.cs
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.csproj.CoreCompileInputs.cache
+D:\хм\geekbrains\языки\C#\lesson1\task3\bin\Debug\net6.0\task3.exe
+D:\хм\geekbrains\языки\C#\lesson1\task3\bin\Debug\net6.0\task3.deps.json
+D:\хм\geekbrains\языки\C#\lesson1\task3\bin\Debug\net6.0\task3.runtimeconfig.json
+D:\хм\geekbrains\языки\C#\lesson1\task3\bin\Debug\net6.0\task3.dll
+D:\хм\geekbrains\языки\C#\lesson1\task3\bin\Debug\net6.0\task3.pdb
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.dll
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\refint\task3.dll
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.pdb
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\task3.genruntimeconfig.cache
+D:\хм\geekbrains\языки\C#\lesson1\task3\obj\Debug\net6.0\ref\task3.dll
